@@ -17,6 +17,7 @@
 - [Introducción a Ingles Nivel 1](#introducción-a-ingles-nivel-1)
   - [Indice](#indice)
 - [Diccionario](#diccionario)
+- [Gramatica de Adjetivos y Sustantivos](#gramatica-de-adjetivos-y-sustantivos)
 - [Presente Continuo](#presente-continuo)
 - [Expresar Existencia](#expresar-existencia)
 - [Presente Simple](#presente-simple)
@@ -53,12 +54,31 @@
 |Degree|Grado|
 |Feel|Sentir|
 |Lack|Escases/Falta|
+|Doing|Acción/Hecho|
+|Learning|Conocimiento/Aprendizaje|
+|Environment|Ambiente/Entorno|
+|Workshop|Taller|
+|About|alrededor de/como/hacia|
+
+---
+
+# Gramatica de Adjetivos y Sustantivos
+
+La gramática se refiere a las reglas y estructuras que rigen cómo se forman las oraciones y cómo se usan las palabras para expresar ideas correctamente.
+
+- **Que son los Sustantivos y Adjetivos**
+  - Los `sustantivos` son palabras que nombran personas, lugares, cosas o ideas. Tangible o no. Ejemplos: _Doctor_ _Ciudad_, _Libro_ o _Felicidad_.
+  - Los `adjetivos` son palabras que describen o califican los sustantivos. Por ejemplo: Se forman como: Auto _rapido_, libro _grande_. En ingles, no cambian ni por el genero o por singularidad o pluraridad.
+
+- **Orden de los Sustantivos y Adjetivos**
+  - En la estructura `Adjetivos Atributivos` el adjetivo generalmente va detras del sustantivo (al contrario que en español). Ejemplo: _fast car_, _big book_.
+  - Sin embargo, hay excepciones como en la estructura `Adjetivos Predicativos` cuando el adjetivo se coloca despues del verbo "to be" (ser/estar). Ejemplo: _the car is fast_, _tthe book is big_
 
 ---
 
 # Presente Continuo
 
-Se utiliza para describir acciones que ocurren en el momento, acciones futuras planeadas. Se forman como:
+Se utiliza para describir acciones que ocurren en el momento, acciones futuras planeadas. 
 
 |Tipo Oración|Formato|
 |---|---|
@@ -121,7 +141,7 @@ Se hace uso de la palabra `There Is` (singular) o `There Are` (plural). Su forma
 
 Se utilia para descripciones, acciones repetidas o habituales, pensamientos, sentimientos y estados y para una verdad absoluta.
 
-Hacemos uso del auxiliar `does not` o `doesn't` para singular y `do not` o `don't` para plural.
+Hacemos uso del auxiliar `do` (hacer) para plural o `does` (hace) para singular. Dentro de los negativos tenemos `does not` o `doesn't` y `do not` o `don't`.
 |Tipo Oración|Formato|
 |---|---|
 |**Afirmativo**|Sujeto + Verbo Infinitivo + Resto Oración|
@@ -183,12 +203,14 @@ Manera en que los verbos expresan diferentes actitudes, posibilidades, obligacio
 |**Interrogativo Wh**|Wh + Verbo Modal + Sujeto + Verbo Base|
 
 Dentro de los verbos modales tenemos:
-- `Can` - Expresar habilidad o posibilidad
-- `Will` - Expresar Predicciones o decisión espontanea
-- `Would` - Expresar situaciones hipoteticas o solicitar algo
-- `Should` - Dar consejo o sugerencia
-- `Must` - Expresar obligación o certeza
-- `May` - Expresar permiso o posibilidad
+|Verbo Modal|Traducción|Utilización|
+|---|---|---|
+|Can|Poder/Saber|Expresar habilidad o posibilidad|
+|Will|Voluntad/Deseo/Decisión|Expresar Predicciones o decisión espontanea|
+|Would|Haría|Expresar situaciones hipoteticas o solicitar algo|
+|Should|Deberia/tener que|Dar consejo o sugerencia|
+|Must|estar obligado a/deber/tener que|Expresar obligación o certeza|
+|May|puede que/tener permiso|Expresar permiso o posibilidad|
 
 **Caracteristicas:**
 - No cambian segun el sujeto (con "s")
@@ -203,3 +225,17 @@ Dentro de los verbos modales tenemos:
 ---
 
 # Pasado Simple
+
+El pasado simple es un tiempo verbal que se utiliza para describir acciones o eventos que ocurrieron en el pasado.
+
+|Tipo Oración|Formato|
+|---|---|
+|**Afirmativo**|Sujeto + Verbo en Pasado Simple + Resto Oración|
+|**Negativo**|Sujeto + Did not + Verbo en Forma Base + Resto Oración|
+|**Interrogativo**|Did + Sujeto + Verbo en Forma Base + Resto Oración|
+|**Interrogativo Wh**|Wh + Did + Sujeto + Verbo en Forma Base + Resto Oración|
+
+- **Verbo Pasado:**
+  - Se le añade `ed` al final. Ejemplo: play->played
+  - Si termina con "e", solo se le añade `d`. Ejemplo: love->loved.
+  - Si termina en consonantre + "y", se le cambia por `ied`. Ejemplo: carry->carried
