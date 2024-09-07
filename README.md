@@ -20,7 +20,9 @@
 - [Presente Continuo](#presente-continuo)
 - [Expresar Existencia](#expresar-existencia)
 - [Presente Simple](#presente-simple)
+- [Comparación de Adjetivos](#comparación-de-adjetivos)
 - [Verbos Modales](#verbos-modales)
+- [Pasado Simple](#pasado-simple)
 
 ---
 
@@ -35,6 +37,19 @@
 |Also|Tambien/Ademas|
 |Make|Hacer/Preparar|
 |Some|Algunos/Algo/Un poco|
+|Diversity|Diversidad/Variedad|
+|Against|En contra|
+|Equity|Acciones/Justicia/Equidad|
+|abilities|Habilidad/Capacidad|
+|Welfare|bienestar|
+|Ways|Maneras|
+|Thins|Pensar/Reflexionar|
+|Attending|Responsable|
+|Attend|Asistir|
+|College|Instituto|
+|Degree|Grado|
+|Feel|Sentir|
+|Lack|Escases/Falta|
 
 ---
 
@@ -108,6 +123,8 @@ Hacemos uso del auxiliar `does not` o `doesn't` para singular y `do not` o `don'
 |**Interrogativo**|Do/Does + Sujeto + Verbo Infinitivo + Resto Oración ?|
 |**Interrogativo Wh**|Wh + Do/Does + Sujeto + Verbo Infinitivo + Resto Oración ?|
 
+En ingles el adjetivo (descripción del sustantivo) se coloca antes que el sustantivo (persona, cosa o animal). Por ejemplo: auto rojo -> red car.
+
 **Caracteristicas:**
 
 - Verbo Infinitivo, Reglas en singular (he, she o it):
@@ -118,6 +135,36 @@ Hacemos uso del auxiliar `does not` o `doesn't` para singular y `do not` o `don'
 **Ejemplo:**
 - You accept Diversity 
 - She doesn't ignore UNLAM's policy on inclusión
+
+---
+
+# Comparación de Adjetivos
+
+La comparación de adjetivos es un proceso en el que se comparan dos o más cosas utilizando adjetivos para mostrar diferencias o similitudes. Hay tres formas principales de comparación:
+
+- **Comparativo:** 
+
+Se utiliza para comparar dos cosas o personas. Se añade `er` al final del adjetivo o usando `more` antes del adjetivo.
+
+Ejemplo con adjetivo corto: "tall" -> "taller" (más alto)
+
+Ejemplo con adjetivo largo: "beautiful" -> "more beautiful" (más hermoso)
+
+- **Superlativo:** 
+
+Se utiliza para mostrar que algo o alguien tiene el grado máximo de una cualidad en comparación con todos los demás. Se forma añadiendo `est` al final del adjetivo o usando `most` antes del adjetivo.
+
+Ejemplo con adjetivo corto: "tall" -> "tallest" (el más alto)
+
+Ejemplo con adjetivo largo: "beautiful" -> "most beautiful" (el más hermoso)
+
+- **Comparación con "as...as" (tan ... como):** 
+
+Se utiliza para decir que dos cosas o personas tienen el mismo grado de una cualidad. Ponemos el adjetivo entre `as ... as` que significa "tan ... como".
+
+Ejemplo con adjetivo corto: "tall" -> "as tall as" (tan alto como).
+
+Ejemplo con adjetivo largo: "beautiful" -> "as beautiful as" (tan hermoso como).
 
 ---
 
@@ -149,3 +196,7 @@ Dentro de los verbos modales tenemos:
 - I will call you later
 - Would you like some tea?
 - I can play the piano
+
+---
+
+# Pasado Simple
