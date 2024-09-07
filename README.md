@@ -21,6 +21,9 @@
 - [Expresar Existencia](#expresar-existencia)
 - [Presente Simple](#presente-simple)
 - [Comparación de Adjetivos](#comparación-de-adjetivos)
+  - [Comparativo](#comparativo)
+  - [Superlativo](#superlativo)
+  - [Comparación con "as...as"](#comparación-con-asas)
 - [Verbos Modales](#verbos-modales)
 - [Pasado Simple](#pasado-simple)
 
@@ -80,13 +83,16 @@ Expresar acciones en progreso o en el momento. Simplemente se añade el "ing" al
     - Si la palabra termina en "e", se elimina y se agrega el ing. Ejemplo: make->making
     - Si termina en vocal seguida de una consonante, se duplica la consonante antes de añadir el ing. Ejemplo: run->running
 4. _Interrogativo Wh_ son preguntas en inglés que comienzan con una palabra interrogativa que contiene "wh", se utiliza para preguntas abiertas. Lista de palabras:
-    - What - ¿Qué? / ¿Cuál?
-    - Where - ¿Dónde?
-    - When - ¿Cuándo?
-    - Who - ¿Quién?
-    - Which - ¿Cuál? 
-    - Why - ¿Por qué?
-    - How - ¿Cómo?
+
+|Palabra WH|Traducción|
+|---|---|
+|What|¿Qué? / ¿Cuál?|
+|Where|¿Dónde?|
+|When|¿Cuándo?|
+|Who|¿Quién?|
+|Which|¿Cuál? |
+|Why|¿Por qué?|
+|How|¿Cómo?|
 
 **Ejemplos:**
 - I am attending English
@@ -142,29 +148,26 @@ En ingles el adjetivo (descripción del sustantivo) se coloca antes que el susta
 
 La comparación de adjetivos es un proceso en el que se comparan dos o más cosas utilizando adjetivos para mostrar diferencias o similitudes. Hay tres formas principales de comparación:
 
-- **Comparativo:** 
+## Comparativo
 
 Se utiliza para comparar dos cosas o personas. Se añade `er` al final del adjetivo o usando `more` antes del adjetivo.
 
-Ejemplo con adjetivo corto: "tall" -> "taller" (más alto)
+- Ejemplo con adjetivo corto: "tall" -> "taller" (más alto)
+- Ejemplo con adjetivo largo: "beautiful" -> "more beautiful" (más hermoso)
 
-Ejemplo con adjetivo largo: "beautiful" -> "more beautiful" (más hermoso)
-
-- **Superlativo:** 
+## Superlativo
 
 Se utiliza para mostrar que algo o alguien tiene el grado máximo de una cualidad en comparación con todos los demás. Se forma añadiendo `est` al final del adjetivo o usando `most` antes del adjetivo.
 
-Ejemplo con adjetivo corto: "tall" -> "tallest" (el más alto)
+- Ejemplo con adjetivo corto: "tall" -> "tallest" (el más alto)
+- Ejemplo con adjetivo largo: "beautiful" -> "most beautiful" (el más hermoso)
 
-Ejemplo con adjetivo largo: "beautiful" -> "most beautiful" (el más hermoso)
-
-- **Comparación con "as...as" (tan ... como):** 
+## Comparación con "as...as"
 
 Se utiliza para decir que dos cosas o personas tienen el mismo grado de una cualidad. Ponemos el adjetivo entre `as ... as` que significa "tan ... como".
 
-Ejemplo con adjetivo corto: "tall" -> "as tall as" (tan alto como).
-
-Ejemplo con adjetivo largo: "beautiful" -> "as beautiful as" (tan hermoso como).
+- Ejemplo con adjetivo corto: "tall" -> "as tall as" (tan alto como).
+- Ejemplo con adjetivo largo: "beautiful" -> "as beautiful as" (tan hermoso como).
 
 ---
 
