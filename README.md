@@ -15,16 +15,12 @@
 ## Indice
 
 - [Introducción a Ingles Nivel 1](#introducción-a-ingles-nivel-1)
-  - [Indice](#indice)
 - [Diccionario](#diccionario)
 - [Gramatica de Adjetivos y Sustantivos](#gramatica-de-adjetivos-y-sustantivos)
 - [Presente Continuo](#presente-continuo)
 - [Expresar Existencia](#expresar-existencia)
 - [Presente Simple](#presente-simple)
 - [Comparación de Adjetivos](#comparación-de-adjetivos)
-  - [Comparativo](#comparativo)
-  - [Superlativo](#superlativo)
-  - [Comparación con "as...as"](#comparación-con-asas)
 - [Verbos Modales](#verbos-modales)
 - [Pasado Simple](#pasado-simple)
 
@@ -32,33 +28,44 @@
 
 # Diccionario
 
-|Ingles|Español|
-|---|---|
-|FreshMan|Estudiante 1° Año|
-|Sophomore|Estudiante 2° Año|
-|Junior|Estudiante 3° Año|
-|Senio|Experimentado|
-|Also|Tambien/Ademas|
-|Make|Hacer/Preparar|
-|Some|Algunos/Algo/Un poco|
-|Diversity|Diversidad/Variedad|
-|Against|En contra|
-|Equity|Acciones/Justicia/Equidad|
-|abilities|Habilidad/Capacidad|
-|Welfare|bienestar|
-|Ways|Maneras|
-|Thins|Pensar/Reflexionar|
-|Attending|Responsable|
-|Attend|Asistir|
-|College|Instituto|
-|Degree|Grado|
-|Feel|Sentir|
-|Lack|Escases/Falta|
-|Doing|Acción/Hecho|
-|Learning|Conocimiento/Aprendizaje|
-|Environment|Ambiente/Entorno|
-|Workshop|Taller|
-|About|alrededor de/como/hacia|
+| Ingles       | Español                      |
+|--------------|------------------------------|
+| About        | Alrededor de/como/hacia      |
+| Abilities    | Habilidad/Capacidad          |
+| Against      | En contra                    |
+| Also         | También/Además               |
+| Attending    | Responsable                  |
+| Attend       | Asistir                      |
+| Begin        | Comenzar                     |
+| Become       | Volverse                     | 
+| Conceal      | Ocultar/Callar               |
+| Choose       | Elegir                       |
+| College      | Instituto                    |
+| Degree       | Grado                        |
+| Diversity    | Diversidad/Variedad          |
+| Doing        | Acción/Hecho                 |
+| Early        | Temprano/pronto/antes        |
+| Environment  | Ambiente/Entorno             |
+| Equity       | Acciones/Justicia/Equidad    |
+| Feel         | Sentir                       |
+| Freshman     | Estudiante 1° Año            |
+| Junior       | Estudiante 3° Año            |
+| Lack         | Escasez/Falta                |
+| Learning     | Conocimiento/Aprendizaje     |
+| Make         | Hacer/Preparar               |
+| Marry        | Casado                       |
+| Meet         | Conocer                      |
+| Senior       | Experimentado                |
+| Some         | Algunos/Algo/Un poco         |
+| Sophomore    | Estudiante 2° Año            |
+| Take         | Agarrar/Tomar                |
+| To           | a/hacia/sobre/de             |
+| Think        | Pensar/Reflexionar           |
+| That         | Eso/que/aquel                |
+| Ways         | Maneras                      |
+| Welfare      | Bienestar                    |
+| Workshop     | Taller                       |
+
 
 ---
 
@@ -231,11 +238,50 @@ El pasado simple es un tiempo verbal que se utiliza para describir acciones o ev
 |Tipo Oración|Formato|
 |---|---|
 |**Afirmativo**|Sujeto + Verbo en Pasado Simple + Resto Oración|
-|**Negativo**|Sujeto + Did not + Verbo en Forma Base + Resto Oración|
-|**Interrogativo**|Did + Sujeto + Verbo en Forma Base + Resto Oración|
-|**Interrogativo Wh**|Wh + Did + Sujeto + Verbo en Forma Base + Resto Oración|
+|**Negativo 1**|Sujeto + was/were not + Resto Oración|
+|**Negativo 2**|Sujeto + Did not + Verbo en Forma Base + Resto Oración|
+|**Interrogativo 1**|Was/WERE + Sujeto + Resto Oración|
+|**Interrogativo 2**|Did + Sujeto + Verbo en Forma Base + Resto Oración|
+|**Interrogativo Wh 1**|Wh + Was/Were + Sujeto + Resto Oración|
+|**Interrogativo Wh 2**|Wh + Did + Sujeto + Verbo en Forma Base + Resto Oración|
 
-- **Verbo Pasado:**
+El verbo to  be para singulares es es "was" y plurales + you es "were".
+
+Dentro de los verbos en pasado simple tenemos los `regulares` e `irregulares`:
+
+- **Verbos Regulares**
   - Se le añade `ed` al final. Ejemplo: play->played
   - Si termina con "e", solo se le añade `d`. Ejemplo: love->loved.
   - Si termina en consonantre + "y", se le cambia por `ied`. Ejemplo: carry->carried
+
+- **Verbos Irregulares**
+
+Sus formas varian considerablemente:
+
+|Infitnitov|Pasado|
+|---|---|
+|do|did|
+|is/am|was|
+|are|were|
+|become|became|
+|begin|began|
+|break|broke|
+|buy|bought|
+|come|came|
+|cut|cut|
+|find|found|
+|give|gave|
+|go|went|
+|have|had|
+|know|knew|
+|choose|chose|
+|write|wrote|
+|fight|fought|
+|meet|met|
+|bring|brought|
+|think|thought|
+|take|took|
+|leave|left|
+|||
+|||
+|||
