@@ -15,14 +15,20 @@
 ## Indice
 
 - [Introducción a Ingles Nivel 1](#introducción-a-ingles-nivel-1)
+  - [Indice](#indice)
 - [Diccionario](#diccionario)
 - [Gramatica de Adjetivos y Sustantivos](#gramatica-de-adjetivos-y-sustantivos)
 - [Presente Continuo](#presente-continuo)
 - [Expresar Existencia](#expresar-existencia)
 - [Presente Simple](#presente-simple)
 - [Comparación de Adjetivos](#comparación-de-adjetivos)
+  - [Comparativo](#comparativo)
+  - [Superlativo](#superlativo)
+  - [Comparación con "as...as"](#comparación-con-asas)
 - [Verbos Modales](#verbos-modales)
 - [Pasado Simple](#pasado-simple)
+- [Modo Imperativo](#modo-imperativo)
+- [Uso del Should](#uso-del-should)
 
 ---
 
@@ -38,25 +44,31 @@
 | Attend       | Asistir                      |
 | Begin        | Comenzar                     |
 | Become       | Volverse                     | 
+| Believe      | Creer                        |
 | Conceal      | Ocultar/Callar               |
 | Choose       | Elegir                       |
 | College      | Instituto                    |
 | Degree       | Grado                        |
 | Diversity    | Diversidad/Variedad          |
 | Doing        | Acción/Hecho                 |
+| Due date     | Fecha limite                 |
 | Early        | Temprano/pronto/antes        |
 | Environment  | Ambiente/Entorno             |
 | Equity       | Acciones/Justicia/Equidad    |
 | Feel         | Sentir                       |
 | Freshman     | Estudiante 1° Año            |
+| Get          | Conseguir/Obtener            |
+| Give         | Dar/Entegar                  |
 | Junior       | Estudiante 3° Año            |
 | Lack         | Escasez/Falta                |
 | Learning     | Conocimiento/Aprendizaje     |
+| Leave        | Dejar                        |
 | Make         | Hacer/Preparar               |
 | Marry        | Casado                       |
 | Meet         | Conocer                      |
 | Senior       | Experimentado                |
 | Some         | Algunos/Algo/Un poco         |
+| Say          | Decir                        |
 | Sophomore    | Estudiante 2° Año            |
 | Take         | Agarrar/Tomar                |
 | To           | a/hacia/sobre/de             |
@@ -177,14 +189,14 @@ La comparación de adjetivos es un proceso en el que se comparan dos o más cosa
 
 ## Comparativo
 
-Se utiliza para comparar dos cosas o personas. Se añade `er` al final del adjetivo o usando `more` antes del adjetivo.
+Se utiliza para comparar dos cosas o personas. Se añade `er` al final del adjetivo o usando `more` (si lleva mas de 3 sibalas) antes del adjetivo.
 
 - Ejemplo con adjetivo corto: "tall" -> "taller" (más alto)
 - Ejemplo con adjetivo largo: "beautiful" -> "more beautiful" (más hermoso)
 
 ## Superlativo
 
-Se utiliza para mostrar que algo o alguien tiene el grado máximo de una cualidad en comparación con todos los demás. Se forma añadiendo `est` al final del adjetivo o usando `most` antes del adjetivo.
+Se utiliza para mostrar que algo o alguien tiene el grado máximo de una cualidad en comparación con todos los demás. Se forma añadiendo `est` al final del adjetivo o usando `most` (si lleva mas de 3 sibalas) antes del adjetivo.
 
 - Ejemplo con adjetivo corto: "tall" -> "tallest" (el más alto)
 - Ejemplo con adjetivo largo: "beautiful" -> "most beautiful" (el más hermoso)
@@ -240,7 +252,7 @@ El pasado simple es un tiempo verbal que se utiliza para describir acciones o ev
 |**Afirmativo**|Sujeto + Verbo en Pasado Simple + Resto Oración|
 |**Negativo 1**|Sujeto + was/were not + Resto Oración|
 |**Negativo 2**|Sujeto + Did not + Verbo en Forma Base + Resto Oración|
-|**Interrogativo 1**|Was/WERE + Sujeto + Resto Oración|
+|**Interrogativo 1**|Was/Were + Sujeto + Resto Oración|
 |**Interrogativo 2**|Did + Sujeto + Verbo en Forma Base + Resto Oración|
 |**Interrogativo Wh 1**|Wh + Was/Were + Sujeto + Resto Oración|
 |**Interrogativo Wh 2**|Wh + Did + Sujeto + Verbo en Forma Base + Resto Oración|
@@ -285,3 +297,29 @@ Sus formas varian considerablemente:
 |||
 |||
 |||
+
+# Modo Imperativo
+
+El modo imperativo en inglés se utiliza para dar órdenes, instrucciones, sugerencias o consejos. 
+
+No se menciona el sujeto explicitamente, porque se sobreentiende que la orden está dirigida a la persona o personas que escuchan o leen. Cuando no se mencionla la persona en la oración, se toma como que esta dirigida en you a pesar que no lo dice.
+
+|Tipo Oración|Formato|
+|---|---|
+|**Afirmativo**|Verbo infinitivo + Resto Oración|
+|**Negativo**|don't + Verbo infinitivo + Resto Oración|
+
+Ejemplo:
+- Organize your time
+- Don't lose your time
+
+# Uso del Should
+
+Verbo modal que se utiliza para expresar sugerencias, recomendaciones, consejos, expectativas o probabilidad. Como es un verbo modal sigue el mismo formato que el resto:
+
+|Tipo Oración|Formato|
+|---|---|
+|**Afirmativo**|Sujeto + Should + Verbo Infinitivo|
+|**Negativo**|Sujeto + Should + Not + Verbo Infinitivo|
+|**Interrogativo**|Should + Sujeto + Verbo Infinitivo|
+|**Interrogativo Wh**|Wh + Should + Sujeto + Verbo Base|
