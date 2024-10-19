@@ -32,55 +32,57 @@
 - [Frecuencia de Adverbios](#frecuencia-de-adverbios)
 - [Expresiones de Frecuencia](#expresiones-de-frecuencia)
   - [Adjetivos Posesivos](#adjetivos-posesivos)
+- [Hablar en Conversaciones](#hablar-en-conversaciones)
+  - [Comienzo para dar una opinion](#comienzo-para-dar-una-opinion)
+  - [Expresar acuerdo o desacuerdo](#expresar-acuerdo-o-desacuerdo)
 
 ---
 
 # Diccionario
 
-| Ingles       | Español                      |
-|--------------|------------------------------|
-| About        | Alrededor de/como/hacia      |
-| Abilities    | Habilidad/Capacidad          |
-| Against      | En contra                    |
-| Also         | También/Además               |
-| Attending    | Responsable                  |
-| Attend       | Asistir                      |
-| Begin        | Comenzar                     |
-| Become       | Volverse/Convertirse         | 
-| Believe      | Creer                        |
-| Conceal      | Ocultar/Callar               |
-| Choose       | Elegir                       |
-| College      | Instituto                    |
-| Degree       | Grado                        |
-| Diversity    | Diversidad/Variedad          |
-| Doing        | Acción/Hecho                 |
-| Due date     | Fecha limite                 |
-| Early        | Temprano/pronto/antes        |
-| Environment  | Ambiente/Entorno             |
-| Equity       | Acciones/Justicia/Equidad    |
-| Feel         | Sentir                       |
-| Freshman     | Estudiante 1° Año            |
-| Get          | Conseguir/Obtener            |
-| Give         | Dar/Entegar                  |
-| Junior       | Estudiante 3° Año            |
-| Lack         | Escasez/Falta                |
-| Learning     | Conocimiento/Aprendizaje     |
-| Leave        | Dejar                        |
-| Make         | Hacer/Preparar               |
-| Marry        | Casado                       |
-| Meet         | Conocer                      |
-| Senior       | Experimentado                |
-| Some         | Algunos/Algo/Un poco         |
-| Say          | Decir                        |
-| Sophomore    | Estudiante 2° Año            |
-| Take         | Agarrar/Tomar                |
-| To           | a/hacia/sobre/de             |
-| Think        | Pensar/Reflexionar           |
-| That         | Eso/que/aquel                |
-| Ways         | Maneras                      |
-| Welfare      | Bienestar                    |
-| Workshop     | Taller                       |
-
+| Español                                                  | Inglés       | Pasado Simple           |
+|----------------------------------------------------------|--------------|-------------------------|
+| Alrededor de/como/hacia                                  | About        | Was/Were                |
+| Habilidad/Capacidad                                      | Abilities    | Could                   |
+| En contra                                                | Against      | Was/Were Against        |
+| También/Además                                           | Also         | Also (no cambia)        |
+| Responsable                                              | Attending    | Was Attending           |
+| Asistir                                                  | Attend       | Attended                |
+| Comenzar                                                 | Begin        | Began                   |
+| Volverse/Convertirse                                     | Become       | Became                  |
+| Creer                                                    | Believe      | Believed                |
+| Ocultar/Callar                                           | Conceal      | Concealed               |
+| Elegir                                                   | Choose       | Chose                   |
+| Instituto                                                | College      | Did College             |
+| Grado                                                    | Degree       | Received Degree         |
+| Diversidad/Variedad                                      | Diversity    | Embraced Diversity      |
+| Acción/Hecho                                             | Doing        | Was Doing               |
+| Fecha límite                                             | Due date     | Had Due Date            |
+| Temprano/pronto/antes                                    | Early        | Was Early               |
+| Ambiente/Entorno                                         | Environment  | Was Environment         |
+| Acciones/Justicia/Equidad                                | Equity       | Had Equity              |
+| Sentir                                                   | Feel         | Felt                    |
+| Estudiante 1° Año                                        | Freshman     | Was Freshman            |
+| Conseguir/Obtener/Recibir/Traer/Atender/Agarrar/Entender | Get          | Got                     |
+| Dar/Entregar                                             | Give         | Gave                    |
+| Estudiante 3° Año                                        | Junior       | Was Junior              |
+| Escasez/Falta                                            | Lack         | Lacked                  |
+| Conocimiento/Aprendizaje                                 | Learning     | Was Learning            |
+| Dejar                                                    | Leave        | Left                    |
+| Hacer/Preparar                                           | Make         | Made                    |
+| Casado                                                   | Marry        | Married                 |
+| Conocer                                                  | Meet         | Met                     |
+| Experimentado                                            | Senior       | Was Senior              |
+| Algunos/Algo/Un poco                                     | Some         | Had Some                |
+| Decir                                                    | Say          | Said                    |
+| Estudiante 2° Año                                        | Sophomore    | Was Sophomore           |
+| Agarrar/Tomar                                            | Take         | Took                    |
+| a/hacia/sobre/de                                         | To           | To (no cambia)          |
+| Pensar/Reflexionar                                       | Think        | Thought                 |
+| Eso/que/aquel                                            | That         | That (no cambia)        |
+| Maneras                                                  | Ways         | Had Ways                |
+| Bienestar                                                | Welfare      | Had Welfare             |
+| Taller                                                   | Workshop     | Held Workshop           |
 
 ---
 
@@ -379,3 +381,42 @@ Los adjetivos posesivos son palabras que indican a quién pertenece algo o algui
 |Nosotros|we|our|
 |Ustedes|you|your|
 |Ellos|they|their|
+
+# Hablar en Conversaciones
+
+## Comienzo para dar una opinion
+
+|Ingles|Español|
+|---|---|
+|I think / believe / consider / feel that|Creo / pienso / considero / siento que|
+|I have no doubt that|No tengo duda de que|
+|I strongly believe that|Creo firmemente que|
+|I would say that|Diría que|
+|I think it is reasonable to say that|Creo que es razonable decir que|
+|In my opinion|En mi opinión|
+|To my mind|En mi mente|
+|From my point of view|Desde mi punto de vista|
+|My point of view is that|Mi punto de vista es que|
+|It seems to me that|Me parece que|
+|To my way of thinking|En mi manera de pensar|
+|Personally, my opinion is that|Personalmente, mi opinión es que|
+|Personally speaking|Hablando personalmente|
+
+## Expresar acuerdo o desacuerdo
+
+- **Estar de Acuerdo**:
+
+|Ingles|Español|
+|---|---|
+|I agree|Estoy de acuerdo|
+|I share your view|Comparto tu vista|
+|I think so|Creo que si|
+|I really think so|Realmente lo creo|
+
+- **Estar de Desacuerdo**:
+
+|Ingles|Español|
+|---|---|
+|I don´t agree / I disagree|No estoy de acuerdo|
+|I don´t think so|No lo creo|
+|I don't think that's quite right|No creo que sea correcto|
