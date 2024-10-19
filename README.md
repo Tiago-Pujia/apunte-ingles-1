@@ -29,6 +29,8 @@
 - [Pasado Simple](#pasado-simple)
 - [Modo Imperativo](#modo-imperativo)
 - [Uso del Should](#uso-del-should)
+- [Frecuencia de Adverbios](#frecuencia-de-adverbios)
+- [Expresiones de Frecuencia](#expresiones-de-frecuencia)
 
 ---
 
@@ -43,7 +45,7 @@
 | Attending    | Responsable                  |
 | Attend       | Asistir                      |
 | Begin        | Comenzar                     |
-| Become       | Volverse                     | 
+| Become       | Volverse/Convertirse         | 
 | Believe      | Creer                        |
 | Conceal      | Ocultar/Callar               |
 | Choose       | Elegir                       |
@@ -322,4 +324,42 @@ Verbo modal que se utiliza para expresar sugerencias, recomendaciones, consejos,
 |**Afirmativo**|Sujeto + Should + Verbo Infinitivo|
 |**Negativo**|Sujeto + Should + Not + Verbo Infinitivo|
 |**Interrogativo**|Should + Sujeto + Verbo Infinitivo|
-|**Interrogativo Wh**|Wh + Should + Sujeto + Verbo Base|
+|**Interrogativo Wh**|Wh + Should + Sujeto + Verbo Infinitivo|
+
+# Frecuencia de Adverbios
+
+Los adverbios de frecuencia (frequency adverbs) son palabras que indican con qué frecuencia ocurre una acción. Esta lista puede ser:
+
+![img](imgs/advers-frequency.jpg)
+
+Estructura:
+- Sujeto + Adv Fre + Acción (presente simple) + Resultado
+- Sujeto + am/are/is + Adv Fre + Resultado
+
+Ejemplo:
+- She often uses my mobile phone
+- I always take down notes
+- I am usually short of self-control
+
+# Expresiones de Frecuencia
+
+Son expresiones que indican con qué frecuencia ocurre una acción, la diferencia es que son expresiones mas largas de 2 palabras o más.
+
+Estas pueden ser:
+
+![img](imgs/frequency-expressions.png)
+
+Estructura:
+|Tipo Oración|Formato|
+|---|---|
+|**Afirmativo**|Sujeto + Acción + Resultado + Exp Fre|
+|**Interrogativo (si no se conoce)**|How often + do/does + sujeto + accion + resto|
+|**Interrogativo (si se conoce)**|do/does + sujeto + ever + accion (infinitivo) + resto|
+
+Tambien se puede cambiar el orden y poner la exp fre al principio
+
+Ejemplo:
+- How often do you study in the library?
+- She uses her mobile phone every day
+- She uses her mobile phone twice a day
+- Do you ever study in the library?
