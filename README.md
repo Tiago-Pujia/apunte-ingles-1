@@ -31,6 +31,7 @@
 - [Uso del Should](#uso-del-should)
 - [Frecuencia de Adverbios](#frecuencia-de-adverbios)
 - [Expresiones de Frecuencia](#expresiones-de-frecuencia)
+  - [Adjetivos Posesivos](#adjetivos-posesivos)
 
 ---
 
@@ -363,3 +364,18 @@ Ejemplo:
 - She uses her mobile phone every day
 - She uses her mobile phone twice a day
 - Do you ever study in the library?
+
+## Adjetivos Posesivos
+
+Los adjetivos posesivos son palabras que indican a quién pertenece algo o alguien. Se usan para mostrar posesión o relación y siempre acompañan a un sustantivo. Estos pueden ser:
+
+|Pronombres Personales|Subjetivo Pronouns|Adjetivos Posesivos|
+|---|---|---|
+|Yo|You|My|
+|Vos|i|Your|
+|El|he|His|
+|Ella|she|Her|
+|Eso|it|its|
+|Nosotros|we|our|
+|Ustedes|you|your|
+|Ellos|they|their|
